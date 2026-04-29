@@ -1,5 +1,4 @@
 # Exercise_week_4
-
 ## 1. List View Exercise
 
 <p align="center">
